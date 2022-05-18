@@ -1,1 +1,16 @@
-
+td{
+     width: 100px;
+     height: 100px;
+     background: grey;
+     font-size: 40px;
+     text-align: center;
+     border-radius: 10px;
+}
+table{
+       margin: 20px auto;
+       border-radius: 10px;
+       color: pink;
+}
+  body{
+        background: whitesmoke;
+  }
